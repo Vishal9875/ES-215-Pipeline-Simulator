@@ -1,4 +1,3 @@
-# Supported Instructions:
 # add $d, $s, $t     # 000000|rs[5]|rt[5]|rd[5]|00000|100000 # rd = rs + rt
 # sub $d, $s, $t     # 000000|rs[5]|rt[5]|rd[5]|00000|100010 # rd = rs - rt
 # and $d, $s, $t     # 000000|rs[5]|rt[5]|rd[5]|00000|100100 # rd = rs & rt
