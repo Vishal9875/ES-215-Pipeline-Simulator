@@ -15,8 +15,6 @@ sw $t5, 8($zero)        # Copy $t5 to memory[8]
 # Verify that the results are correct
 # memory[8] = 24*(45+24) = 1656 
 
- 
-
 addi $s1, $zero, 1
 addi, $s1, $zero, 1656
 addi $s7, $zero, 1
