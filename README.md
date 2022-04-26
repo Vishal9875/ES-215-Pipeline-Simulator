@@ -10,3 +10,6 @@ Or press e or q to jump to the end of the execution.
 All the details i.e., register values, memory values are shown in hexadecimal form.
 
 At the end the table will be shown depicting when and which stage of an instruction was run with reference to clock cycles.
+
+Supported instructions are:
+add, sll, srl, mult, sub, addi, and, or, nor, xor, lw, sw, beq
